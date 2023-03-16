@@ -46,3 +46,11 @@
   border-radius: 5px;
   background: transparent;
 }
+.icon-div {
+  position: relative;
+}
+.icon {
+  position: absolute;
+  top: 55%;
+  left: 95%;
+}
